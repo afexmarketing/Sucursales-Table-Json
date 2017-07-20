@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <script src="https://code.jquery.com/jquery-1.12.3.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('#example').dataTable( {
+            "language": {
+                "url": "Spanish.json"
+            }
+        } );
+    } );
+</script>
+    <link rel="stylesheet" href="jquery.dataTables.min.css" />
+    <script src="jquery.dataTables.min.js"></script>
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js"></script>
+  </head>
+
+  <body>
+    <table id="tablasucursales" class="display" cellspacing="0" width="100%">
+    <thead>
+      <tr>
+        <th style="width: 20%">SUCURSAL</th>
+        <th style="width: 40%">DIRECCI&Oacute;N</th>
+        <th style="width: 10%">TEL&Eacute;FONO</th>
+        <th style="width: 10%">LUNES A VIERNES</th>
+        <th style="width: 10%">S&Aacute;BADO</th>
+        <th style="width: 10%">DOMINGO</th>
+      </tr>
+    </thead>
+    </table>
+  </body>
+
+</html>
