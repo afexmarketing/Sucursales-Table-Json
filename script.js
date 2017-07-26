@@ -12,7 +12,7 @@ $(document).ready(function() {
   "sInfoEmpty":      "Mostrando 0 de 0 sucursales",
   "sInfoFiltered":   "(filtrado de un total de _MAX_ sucursales)",
   "sInfoPostFix":    "",
-  "sSearch":         "Buscar Sucursal",
+  "sSearch":         "BUSQUEDA R&Aacute;PIDA",
   "sUrl":            "",
   "sInfoThousands":  ",",
   "sLoadingRecords": "Cargando...",
