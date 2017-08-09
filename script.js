@@ -36,6 +36,8 @@ $(document).ready(function() {
       { data: "properties.title" },
       { data: "properties.description" },
       { data: "properties.tlf" },
+      { data: "properties.jefe" },
+      { data: "properties.ip" },
       { data: "properties.lunvie" },
       { data: "properties.sab" },
       { data: "properties.dom" }
