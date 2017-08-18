@@ -35,7 +35,7 @@ $(document).ready(function() {
     "columns": [
       { data: "properties.title" },
       { data: "properties.description" },
-      { data: "properties.tlf" },
+   //   { data: "properties.tlf" },
       { data: "properties.jefe" },
       { data: "properties.ip" },
       { data: "properties.lunvie" },
