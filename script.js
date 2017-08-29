@@ -33,7 +33,7 @@ $(document).ready(function() {
       "dataSrc": "features"
     },
     "columns": [
-  //    { data: "properties.title" },
+      { data: "properties.title" },
       { data: "properties.description" },
       { data: "properties.tlf" },
       { data: "properties.jefe" },
